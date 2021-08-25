@@ -1,0 +1,12 @@
+body {
+  background-color:#75a3a3;
+}
+
+#result{
+  color:red;
+}
+
+#luz1{
+  width: 80px;
+  height: 160px;
+}
